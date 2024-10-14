@@ -3,8 +3,6 @@
  <head>
  <meta charset="utf-8">
  <title>TODO list</title>
-Chapter 12 Better Project Management: Pull Requests
-174
  <style>
  h1 {
  text-align:center;
@@ -23,6 +21,12 @@ Chapter 12 Better Project Management: Pull Requests
  background: #eee;
  font-size: 18px;
  transition: 0.2s;
+ -webkit-user-select: none;
+Chapter 12 Better Project Management: Pull Requests
+192
+ -moz-user-select: none;
+ -ms-user-select: none;
+ user-select: none;
  }
  ul li:nth-child(odd) {
  background: #f9f9f9;
@@ -40,8 +44,6 @@ Chapter 12 Better Project Management: Pull Requests
  <li>Clear the fogs for the frogs</li>
  <li>Bring a box to the fox</li>
  </ul>
-Chapter 12 Better Project Management: Pull Requests
-175
  <h3>Done</h3>
  <ul>
  <li>Put the mittens on the kittens</li>
